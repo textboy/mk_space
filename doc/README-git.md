@@ -1,5 +1,5 @@
 ### git config
-Create repository in website github
+Create repository in website github  
 git config --list
 git config --global user.name "Your Name"  
 git config --global user.email "youremail@yourdomain.com"   
