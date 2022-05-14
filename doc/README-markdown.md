@@ -1,22 +1,25 @@
+# Return
+在一行的末尾添加两个或多个空格，然后按回车键  
+
 # Header
-Header Level 1 to 6: # to ######
+Header Level 1 to 6: # to ######  
 
 # Bold
-** bold **
+** bold **  
 
 # Italic
-* level 22 *
+* level 22 *  
 
 # Line
-***
----
+***  
+---  
 
 # Reference
-> http://wwww.bing.com
+> http://wwww.bing.com  
 
 # List
-- level 1
-  - level 21
+- level 1  
+  - level 21  
 
 # Table
 | Syntax      | Description |
@@ -25,7 +28,7 @@ Header Level 1 to 6: # to ######
 | Paragraph   | Text        |
 
 # Code
-`print("hello")`
+`print("hello")`  
 
 ```json
 {
@@ -36,5 +39,5 @@ Header Level 1 to 6: # to ######
 ```
 
 # Checkbox
-- [x] Write the press release
-- [ ] Update the website
+- [x] Write the press release  
+- [ ] Update the website  
