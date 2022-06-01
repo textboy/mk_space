@@ -1,3 +1,4 @@
+# glue: setup kafka connection, and ingest into Additional network connections
 from pyspark import SparkContext
 from pyspark.sql.types import StructType, StringType, StructField
 from pyspark.sql.functions import from_json
