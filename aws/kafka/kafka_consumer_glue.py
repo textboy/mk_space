@@ -1,3 +1,4 @@
+# glue: setup kafka connection, and ingest into Additional network connections
 import sys
 from awsglue.transforms import *
 from awsglue.utils import getResolvedOptions
