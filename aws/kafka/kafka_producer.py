@@ -1,4 +1,5 @@
 # install s3://mk-glue-367793726391/lib/wheel/kafka_python-2.0.2-py2.py3-none-any.whl
+# glue: setup kafka connection, and ingest into Additional network connections
 
 from kafka import KafkaProducer
 from time import sleep
